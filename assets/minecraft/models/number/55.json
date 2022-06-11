@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "number/55"
+        "layer0": "numbers/55"
     }
 }
